@@ -7,8 +7,9 @@
 <p align="center">
     <sup>Latest version: v0.0.2</sup>
 </p>
+
 # Why's this archived?
-I've recently grown tired of yrHost. I've not a drop of motivation to continue. I planned too big... 😐  
+I've recently grown tired of yrHost. I've not a drop of motivation to continue. I planned too big... 😐    
 I'll probably start over and remake this, but not in this branding. We'll see what happens.  
 
 You can take this repo for yourself and develop yrHost into what you want. I don't mind.
